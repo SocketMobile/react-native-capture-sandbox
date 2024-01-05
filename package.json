@@ -1,7 +1,7 @@
 {
   "name": "react-native-capture-sandbox",
   "title": "React Native Capture SANDBOX",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dummy Socket Mobile React Native SDK used for CI/CD testing.",
   "main": "index.js",
   "files": [

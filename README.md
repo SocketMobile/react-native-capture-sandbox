@@ -1,4 +1,4 @@
-# react-native-capture-sandbox 1.0.2
+# react-native-capture-sandbox 1.0.3
 
 This is the sandbox version of react-native-capture that is generated from the sanbox version of capturesdk-reactnative-sandbox.
 

@@ -1,23 +1,23 @@
 {
-  "name": "react-native-capture",
-  "title": "React Native Capture",
-  "version": "1.4.32",
-  "description": "Socket Mobile CaptureSDK for React Native",
+  "name": "react-native-capture-sandbox",
+  "title": "React Native Capture SANDBOX",
+  "version": "",
+  "description": "Dummy Socket Mobile React Native SDK used for CI/CD testing.",
   "main": "index.js",
   "files": [
     "README.md",
     "android",
     "index.js",
     "ios",
-    "react-native-capture.podspec"
+    "react-native-capture-sandbox.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SocketMobile/react-native-capture.git",
-    "baseUrl": "https://github.com/SocketMobile/react-native-capture"
+    "url": "git+https://github.com/SocketMobile/react-native-capture-sandbox.git",
+    "baseUrl": "https://github.com/SocketMobile/react-native-capture-sandbox"
   },
   "keywords": [
     "react-native",
